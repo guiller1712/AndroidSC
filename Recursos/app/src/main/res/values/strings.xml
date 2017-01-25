@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mi aplicación Android</string>
+    <string name="colUno">Magenta</string>
+    <string name="colDos">Rojo</string>
+</resources>
