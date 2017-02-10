@@ -6,7 +6,11 @@ package com.example.milibreria;
 
 public class PruebaLibreria {
 
-    public static final String texto = "Hola mundo";
+    public static final String vacio = "Caja vacia";
+    public static final String texto = "Número aplicado coorectamente";
+    public static final String lleno = "Arreglo lleno";
+    public static final String cero = "No se ha asignado límite";
+
 
     public static double Promedio(int v[]){
         double prom = 0;

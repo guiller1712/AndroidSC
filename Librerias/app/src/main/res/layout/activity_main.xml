@@ -11,7 +11,7 @@
     tools:context="com.example.guill.librerias.MainActivity">
 
     <TextView
-        android:text="TextView"
+        android:text="Números"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -30,11 +30,19 @@
         android:id="@+id/editText" />
 
     <Button
-        android:text="Next"
+        android:text="Siguiente"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:id="@+id/button"
         android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Asignar suma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
