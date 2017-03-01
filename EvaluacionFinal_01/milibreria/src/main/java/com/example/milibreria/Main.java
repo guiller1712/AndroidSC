@@ -5,8 +5,5 @@ package com.example.milibreria;
  */
 
 public class Main {
-    public static String pantalla_1 = "activity_main";
-    public static String pantalla_2 = "activity_02";
-    public static String pantalla_3 = "activity_03";
-    public static String pantalla_4 = "activity_04";
+    public static String pantallas = "activity_main activity_02 activity_03 activity_04";
 }
